@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj": {}
+    "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj": {
+    "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj",
         "projectName": "NetCoreAngularDemo.Data",
-        "projectPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj",
-        "packagesPath": "C:\\Users\\bckhiem\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\obj\\",
+        "projectPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj",
+        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+        "outputPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bckhiem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

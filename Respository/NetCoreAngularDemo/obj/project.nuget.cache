@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "3Q+r5EyRuAwA1RqWrw3YT7L5VWkexLLuvqcZ/1HMYMcSTxMH5uHkeoYVilXD9wvA1SgIlAMPfXidhF/WBFvuCQ==",
+  "dgSpecHash": "5pErJVu/hzOpLdZJ66uBlpJkE2gAWRM1RHZyDRnQFtZv4spT1KJyySZC3tALtp444mrwJCQ5Q/wF+jieFXTuvA==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo\\NetCoreAngularDemo.csproj",
+  "projectFilePath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo\\NetCoreAngularDemo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\nlog.extensions.logging\\5.2.3\\nlog.extensions.logging.5.2.3.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\bckhiem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\nlog.extensions.logging\\5.2.3\\nlog.extensions.logging.5.2.3.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\chikh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

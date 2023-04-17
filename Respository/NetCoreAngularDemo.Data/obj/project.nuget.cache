@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3IILOpn77PeT8j/COeUI1ODt+lPKgMwiBqv+OqoJtXsiSaVnfZOd0XJc40fFNLvBEYR8vjT0g5MgqUy+iAjYg==",
+  "dgSpecHash": "VoHNcvgHBdE41hqHhfk9tD2F0zJH249oBNpWBst1YMczUj2Ib99z+iLEaWTTkTpGQcRYNRDA3FEjAr28E/mb+A==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj",
+  "projectFilePath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\NetCoreAngularDemo.Data\\NetCoreAngularDemo.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
