@@ -1,4 +1,9 @@
-﻿namespace NetCoreAngularDemo.Extensions
+﻿using Contracts.Interface;
+using NLog;
+using Contracts;
+using LoggerService.Model;
+
+namespace NetCoreAngularDemo.Extensions
 {
     public static class ServiceExtensions
     {
@@ -17,6 +22,10 @@
             services.Configure<IISOptions>(options =>
             {
             });
+        }
+        public static void ConfigureLoggerService(this IServiceCollection services)
+        {
+            services.AddSingleton<ILoggerManager, LoggerManagerModel>();
         }
     }
 }

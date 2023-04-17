@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAngularDemo", "NetCoreAngularDemo\NetCoreAngularDemo.csproj", "{82653118-90A0-483E-8E92-34633BD57BA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAngularDemo", "NetCoreAngularDemo\NetCoreAngularDemo.csproj", "{82653118-90A0-483E-8E92-34633BD57BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{A55E9F75-2A66-45F8-892E-122C94814D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{69252E18-9B93-4214-B840-549655733747}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{82653118-90A0-483E-8E92-34633BD57BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82653118-90A0-483E-8E92-34633BD57BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82653118-90A0-483E-8E92-34633BD57BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55E9F75-2A66-45F8-892E-122C94814D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55E9F75-2A66-45F8-892E-122C94814D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55E9F75-2A66-45F8-892E-122C94814D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55E9F75-2A66-45F8-892E-122C94814D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69252E18-9B93-4214-B840-549655733747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69252E18-9B93-4214-B840-549655733747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69252E18-9B93-4214-B840-549655733747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69252E18-9B93-4214-B840-549655733747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
