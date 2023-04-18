@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnlineShop.Data.Entities.ShopInfor
+namespace NetCoreAngularDemo.Data.Entities.ShopInfor
 {
-    public class ShopInfor :BaseEntity
+    public class ShopInfor : BaseEntity
     {
         public string Name { get; set; }
         public string Address { get; set; }

@@ -1,11 +1,9 @@
-﻿
-
-namespace NetCoreAngularDemo.Data.Enums
+﻿namespace NetCoreAngularDemo.Data.Entities.Enums
 {
     public enum ProductStatus
     {
-        InStock, 
-        Unstock, 
+        InStock,
+        Unstock,
         CheckAvailability
     }
 }

@@ -1,12 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
+using NetCoreAngularDemo.Data.Entities.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Microsoft.AspNetCore.HttpOverrides;
 namespace NetCoreAngularDemo.Repo
 {
     public class DataBaseContextFactory : IDesignTimeDbContextFactory<DataBaseContext>
@@ -20,7 +22,6 @@ namespace NetCoreAngularDemo.Repo
             var connectingstring = configuration.GetConnectionString("DefaultConnection");
             var optionsBuilder = new DbContextOptionsBuilder<DataBaseContext>();
             optionsBuilder.UseSqlServer(connectingstring);
-
             return new DataBaseContext(optionsBuilder.Options);
         }
     }

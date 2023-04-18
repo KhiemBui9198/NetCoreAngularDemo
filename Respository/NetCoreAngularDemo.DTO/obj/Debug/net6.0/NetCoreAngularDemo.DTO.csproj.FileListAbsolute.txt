@@ -1,0 +1,15 @@
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\bin\Debug\net6.0\NetCoreAngularDemo.DTO.exe
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\bin\Debug\net6.0\NetCoreAngularDemo.DTO.deps.json
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\bin\Debug\net6.0\NetCoreAngularDemo.DTO.runtimeconfig.json
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\bin\Debug\net6.0\NetCoreAngularDemo.DTO.dll
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\bin\Debug\net6.0\NetCoreAngularDemo.DTO.pdb
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.csproj.AssemblyReference.cache
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.AssemblyInfoInputs.cache
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.AssemblyInfo.cs
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.csproj.CoreCompileInputs.cache
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.dll
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\refint\NetCoreAngularDemo.DTO.dll
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.pdb
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\NetCoreAngularDemo.DTO.genruntimeconfig.cache
+C:\Repository\NetCoreAngularDemo\Respository\NetCoreAngularDemo.DTO\obj\Debug\net6.0\ref\NetCoreAngularDemo.DTO.dll

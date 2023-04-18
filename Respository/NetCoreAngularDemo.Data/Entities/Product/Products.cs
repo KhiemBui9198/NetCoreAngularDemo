@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
-using NetCoreAngularDemo.Data.Enums;
 using NetCoreAngularDemo.Data.Entities.Identity;
 using NetCoreAngularDemo.Data.Entities.ManufacturerEntities;
 using NetCoreAngularDemo.Data.Entities.CategoryClass;
+using NetCoreAngularDemo.Data.Entities.Enums;
 
 namespace NetCoreAngularDemo.Data.Entities.Product
 {
