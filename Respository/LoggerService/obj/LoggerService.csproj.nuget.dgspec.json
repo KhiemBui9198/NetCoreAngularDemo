@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj": {}
+    "C:\\Repository\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj": {}
   },
   "projects": {
-    "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj": {
+    "C:\\Repository\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Repository\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\Contracts\\obj\\",
+        "projectPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\bckhiem\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bckhiem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj": {
+    "C:\\Repository\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Repository\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\LoggerService\\obj\\",
+        "projectPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\bckhiem\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bckhiem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\KMData\\Respositories\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj"
+              "C:\\Repository\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Repository\\NetCoreAngularDemo\\Respository\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
